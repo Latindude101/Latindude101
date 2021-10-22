@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Latindude101
+- 👀 I’m interested in econometrics, web development, and teaching economics through interactive tools and visualisations
+- 🌱 I’m currently learning STATA with the goal of writing a dissertation that analyses price and market share data to assess models of industrial organisation
